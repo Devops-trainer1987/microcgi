@@ -1,2 +1,6 @@
 this is the contents of file1
 this is the second line
+<<<<<<< HEAD
+=======
+this is the third line
+>>>>>>> test
